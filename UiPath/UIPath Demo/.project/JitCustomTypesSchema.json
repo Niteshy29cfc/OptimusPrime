@@ -1,0 +1,94 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 1,
+        "idRef": "ReadRangeConnections`1_1",
+        "hash": "ReadRangeConnections`1_1|DataTable|SL6d7gnmpL0s9AFZAHRYvasddAGv3doRV67S4dUo2us",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Key",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Value",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ],
+        "rowExtendedProperties": null
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable1",
+        "hash": "ReadRangeConnections`1_1|DataTable|rBrqwK28co3cLtpoQkH83LDp214yGjCbO3Nxpc2D8",
+        "assemblyName": "Studio.Generated.TypedDataTable1"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 2,
+        "idRef": "ReadRangeConnections`1_3",
+        "hash": "ReadRangeConnections`1_3|DataTable|SL6d7gnmpL0s9AFZAHRYvasddAGv3doRV67S4dUo2us",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Key",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Value",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ],
+        "rowExtendedProperties": null
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable2",
+        "hash": "ReadRangeConnections`1_3|DataTable|rBrqwK28co3cLtpoQkH83LDp214yGjCbO3Nxpc2D8",
+        "assemblyName": "Studio.Generated.TypedDataTable2"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 3,
+        "idRef": "ReadRangeConnections`1_4",
+        "hash": "ReadRangeConnections`1_4|DataTable|0gPnlXRTgY4dV7HiN8NI1TCnSjRRSYPeDkNXrRbkC0",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Sr No",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Name",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Company Name",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Company Relation",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Email Address",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ],
+        "rowExtendedProperties": null
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable3",
+        "hash": "ReadRangeConnections`1_4|DataTable|RPJVCWg5bUjI5NZ6p8PofNugu3vIbwwx9ClQie0Z8",
+        "assemblyName": "Studio.Generated.TypedDataTable3"
+      }
+    }
+  ]
+}
